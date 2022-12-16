@@ -1,0 +1,1 @@
+I have done rnd to send sms through azure sms service

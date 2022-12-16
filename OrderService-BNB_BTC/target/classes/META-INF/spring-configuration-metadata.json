@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "name": "exchange",
+      "type": "com.mobiloitte.order.config.AppConfig",
+      "sourceType": "com.mobiloitte.order.config.AppConfig"
+    },
+    {
+      "name": "kafka.topic",
+      "type": "com.mobiloitte.order.service.impl.KafkaServiceImpl",
+      "sourceType": "com.mobiloitte.order.service.impl.KafkaServiceImpl"
+    }
+  ],
+  "properties": [
+    {
+      "name": "exchange.base-coin",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.order.config.AppConfig"
+    },
+    {
+      "name": "exchange.binance-enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.mobiloitte.order.config.AppConfig"
+    },
+    {
+      "name": "exchange.exe-coin",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.order.config.AppConfig"
+    },
+    {
+      "name": "exchange.hit-btc-enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.mobiloitte.order.config.AppConfig"
+    },
+    {
+      "name": "exchange.instrument",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.order.config.AppConfig"
+    },
+    {
+      "name": "exchange.liquidity-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.mobiloitte.order.config.AppConfig"
+    },
+    {
+      "name": "exchange.poloniex-enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.mobiloitte.order.config.AppConfig"
+    }
+  ],
+  "hints": []
+}

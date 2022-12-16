@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "security.url.mappings",
+      "type": "com.mobiloitte.server.apigateway.config.UrlMappings",
+      "sourceType": "com.mobiloitte.server.apigateway.config.UrlMappings"
+    }
+  ],
+  "properties": [
+    {
+      "name": "security.url.mappings.admin",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.mobiloitte.server.apigateway.config.UrlMappings"
+    },
+    {
+      "name": "security.url.mappings.developer",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.mobiloitte.server.apigateway.config.UrlMappings"
+    },
+    {
+      "name": "security.url.mappings.guest",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.mobiloitte.server.apigateway.config.UrlMappings"
+    },
+    {
+      "name": "security.url.mappings.none",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.mobiloitte.server.apigateway.config.UrlMappings"
+    },
+    {
+      "name": "security.url.mappings.sub-admin",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.mobiloitte.server.apigateway.config.UrlMappings"
+    },
+    {
+      "name": "security.url.mappings.user",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.mobiloitte.server.apigateway.config.UrlMappings"
+    }
+  ],
+  "hints": []
+}

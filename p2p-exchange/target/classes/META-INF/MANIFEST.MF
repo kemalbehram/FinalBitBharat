@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 17.0.4.1
+Implementation-Title: p2p-exchange
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mobiloitte.com
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/p2p-exchange
+Created-By: Maven Integration for Eclipse
+

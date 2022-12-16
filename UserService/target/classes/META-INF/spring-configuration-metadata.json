@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "cloudinary",
+      "type": "com.mobiloitte.usermanagement.util.CloudinaryConfig",
+      "sourceType": "com.mobiloitte.usermanagement.util.CloudinaryConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cloudinary.api-key",
+      "type": "java.lang.String",
+      "description": "The Constant API_KEY.",
+      "sourceType": "com.mobiloitte.usermanagement.util.CloudinaryConfig"
+    },
+    {
+      "name": "cloudinary.api-secret",
+      "type": "java.lang.String",
+      "description": "The Constant API_SECRET.",
+      "sourceType": "com.mobiloitte.usermanagement.util.CloudinaryConfig"
+    },
+    {
+      "name": "cloudinary.cloud-name",
+      "type": "java.lang.String",
+      "description": "The Constant CLOUD_NAME.",
+      "sourceType": "com.mobiloitte.usermanagement.util.CloudinaryConfig"
+    }
+  ],
+  "hints": []
+}

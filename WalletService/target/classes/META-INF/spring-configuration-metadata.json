@@ -1,0 +1,107 @@
+{
+  "groups": [
+    {
+      "name": "api.base-url",
+      "type": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    }
+  ],
+  "properties": [
+    {
+      "name": "api.base-url.a-v-a-x-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.b-c-h-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.b-n-b-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.b-t-c-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.d-a-s-h-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.e-o-s-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.e-t-h-n-o-d-e-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.l-t-c-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.m-a-t-i-c-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.m-i-o-t-a-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.n-e-o-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.o-m-g-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.p-o-l-k-a-d-o-t-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.s-o-l-a-n-a-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.t-r-x-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.u-s-d-c-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.u-s-d-t-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.x-l-m-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    },
+    {
+      "name": "api.base-url.x-r-p-a-p-i-b-a-s-e",
+      "type": "java.lang.String",
+      "sourceType": "com.mobiloitte.microservice.wallet.constants.ApiUrlConstants"
+    }
+  ],
+  "hints": []
+}
